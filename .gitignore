@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+*.sqlite # Ignore database files if used
+.env # Ignore API keys stored in .env
